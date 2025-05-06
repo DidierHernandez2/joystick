@@ -1,0 +1,33 @@
+[0.720s] Invoking command in '/home/darhf/Manchester/SemanaTec/src/joystick': PYTHONPATH=/home/darhf/Manchester/SemanaTec/build/joystick/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darhf/Manchester/SemanaTec/install/joystick/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/joystick build --build-base /home/darhf/Manchester/SemanaTec/build/joystick/build install --record /home/darhf/Manchester/SemanaTec/build/joystick/install.log --single-version-externally-managed install_data
+[0.935s] running egg_info
+[0.935s] creating ../../build/joystick/joystick.egg-info
+[0.935s] writing ../../build/joystick/joystick.egg-info/PKG-INFO
+[0.936s] writing dependency_links to ../../build/joystick/joystick.egg-info/dependency_links.txt
+[0.936s] writing entry points to ../../build/joystick/joystick.egg-info/entry_points.txt
+[0.936s] writing requirements to ../../build/joystick/joystick.egg-info/requires.txt
+[0.936s] writing top-level names to ../../build/joystick/joystick.egg-info/top_level.txt
+[0.936s] writing manifest file '../../build/joystick/joystick.egg-info/SOURCES.txt'
+[0.937s] reading manifest file '../../build/joystick/joystick.egg-info/SOURCES.txt'
+[0.938s] writing manifest file '../../build/joystick/joystick.egg-info/SOURCES.txt'
+[0.939s] running build
+[0.939s] running build_py
+[0.939s] creating /home/darhf/Manchester/SemanaTec/build/joystick/build
+[0.939s] creating /home/darhf/Manchester/SemanaTec/build/joystick/build/lib
+[0.939s] creating /home/darhf/Manchester/SemanaTec/build/joystick/build/lib/joystick
+[0.939s] copying joystick/__init__.py -> /home/darhf/Manchester/SemanaTec/build/joystick/build/lib/joystick
+[0.939s] running install
+[0.939s] running install_lib
+[0.940s] creating /home/darhf/Manchester/SemanaTec/install/joystick/lib/python3.10/site-packages/joystick
+[0.940s] copying /home/darhf/Manchester/SemanaTec/build/joystick/build/lib/joystick/__init__.py -> /home/darhf/Manchester/SemanaTec/install/joystick/lib/python3.10/site-packages/joystick
+[0.940s] byte-compiling /home/darhf/Manchester/SemanaTec/install/joystick/lib/python3.10/site-packages/joystick/__init__.py to __init__.cpython-310.pyc
+[0.940s] running install_data
+[0.941s] creating /home/darhf/Manchester/SemanaTec/install/joystick/share/ament_index
+[0.941s] creating /home/darhf/Manchester/SemanaTec/install/joystick/share/ament_index/resource_index
+[0.941s] creating /home/darhf/Manchester/SemanaTec/install/joystick/share/ament_index/resource_index/packages
+[0.941s] copying resource/joystick -> /home/darhf/Manchester/SemanaTec/install/joystick/share/ament_index/resource_index/packages
+[0.941s] copying package.xml -> /home/darhf/Manchester/SemanaTec/install/joystick/share/joystick
+[0.941s] running install_egg_info
+[0.943s] Copying ../../build/joystick/joystick.egg-info to /home/darhf/Manchester/SemanaTec/install/joystick/lib/python3.10/site-packages/joystick-0.0.0-py3.10.egg-info
+[0.944s] running install_scripts
+[0.963s] writing list of installed files to '/home/darhf/Manchester/SemanaTec/build/joystick/install.log'
+[1.004s] Invoked command in '/home/darhf/Manchester/SemanaTec/src/joystick' returned '0': PYTHONPATH=/home/darhf/Manchester/SemanaTec/build/joystick/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darhf/Manchester/SemanaTec/install/joystick/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/joystick build --build-base /home/darhf/Manchester/SemanaTec/build/joystick/build install --record /home/darhf/Manchester/SemanaTec/build/joystick/install.log --single-version-externally-managed install_data

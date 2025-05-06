@@ -1,0 +1,3 @@
+[console_scripts]
+joy_listener = joystick.joy_listener:main
+
